@@ -1,0 +1,9 @@
+{
+  "training_date": "2025-12-12T16:48:15.473513",
+  "dataset_size": 30000,
+  "features_count": 22,
+  "rules_count": 5124,
+  "min_support": 0.15,
+  "min_confidence": 0.6,
+  "algorithm": "ECLAT"
+}
